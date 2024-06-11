@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="invested" label="Invested" language="en" table="x_27034_stocks_stocks">
+    <sys_documentation element="" label="Stocks" language="en" table="x_27034_stocks_stocks">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>invested</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Invested</label>
+            <label>Stocks</label>
             <language>en</language>
             <name>x_27034_stocks_stocks</name>
-            <plural>Invested</plural>
+            <plural>Stocks</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-07-14 17:52:08</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Invested</sys_name>
+            <sys_name>Stocks</sys_name>
             <sys_package display_value="stocks" source="x_27034_stocks">d8792a9947083110842d5882e36d4362</sys_package>
             <sys_policy/>
             <sys_scope display_value="stocks">d8792a9947083110842d5882e36d4362</sys_scope>
-            <sys_update_name>sys_documentation_x_27034_stocks_stocks_invested_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_27034_stocks_stocks__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-14 17:52:08</sys_updated_on>
             <url/>

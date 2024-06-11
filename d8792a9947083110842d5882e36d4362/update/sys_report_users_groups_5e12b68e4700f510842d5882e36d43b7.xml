@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="">d612b68e4700f510842d5882e36d43b7</report_id>
+        <report_id display_value="StocksTotal">d612b68e4700f510842d5882e36d43b7</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-17 02:22:29</sys_created_on>

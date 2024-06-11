@@ -2,7 +2,7 @@
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA Stock Quotes">e0abee5d47483110842d5882e36d434b</grid_canvas>
         <height>10</height>
-        <portal_widget display_value="Created 2015-02-10 22:23:43">01cb1463eb023100871aac6aa206fe4b</portal_widget>
+        <portal_widget display_value="Created 2015-02-11 01:23:43">01cb1463eb023100871aac6aa206fe4b</portal_widget>
         <posx>6</posx>
         <posy>30</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>

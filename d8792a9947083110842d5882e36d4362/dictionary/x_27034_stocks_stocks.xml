@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="aa1aa69947483110842d5882e36d430d" label="Stocks" max_length="40" name="x_27034_stocks_stocks" type="collection">
+        <element label="Change 1 Day" max_length="15" name="u_decimal_1" type="decimal"/>
+        <element label="Change 1 Week" max_length="15" name="u_decimal_2" type="decimal"/>
+        <element label="Price" max_length="15" name="price" type="decimal"/>
+        <element label="Change 1 Month" max_length="15" name="u_decimal_3" type="decimal"/>
+        <element label="Change 1 Year" max_length="15" name="u_decimal_4" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;var invested = current.quantity*current.price;&#13;&#10;&#9;return invested; // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Invested" max_length="15" name="invested" type="decimal" virtual="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Symbol" max_length="40" name="symbol" type="string"/>
+    </element>
+</database>
