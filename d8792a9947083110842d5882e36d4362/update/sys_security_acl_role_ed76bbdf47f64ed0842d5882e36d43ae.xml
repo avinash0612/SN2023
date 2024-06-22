@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>avi</sys_created_by>
+        <sys_created_on>2024-06-20 17:37:24</sys_created_on>
+        <sys_id>ed76bbdf47f64ed0842d5882e36d43ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_27034_stocks_valuation.x_27034_stocks.valuation_user</sys_name>
+        <sys_package display_value="stocks" source="x_27034_stocks">d8792a9947083110842d5882e36d4362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="stocks">d8792a9947083110842d5882e36d4362</sys_scope>
+        <sys_security_acl display_value="x_27034_stocks_valuation">9576bbdf47f64ed0842d5882e36d43ab</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ed76bbdf47f64ed0842d5882e36d43ae</sys_update_name>
+        <sys_updated_by>avi</sys_updated_by>
+        <sys_updated_on>2024-06-20 17:37:24</sys_updated_on>
+        <sys_user_role display_value="x_27034_stocks.valuation_user" name="x_27034_stocks.valuation_user">01763f9f47f64ed0842d5882e36d43ea</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

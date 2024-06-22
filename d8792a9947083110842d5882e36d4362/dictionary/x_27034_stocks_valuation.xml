@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6066f7df47f64ed0842d5882e36d436a" label="Valuation" max_length="40" name="x_27034_stocks_valuation" type="collection">
+        <element label="Outstanding Employee options?" max_length="255" name="outstanding_employee_options" type="boolean"/>
+        <element label="Industry-Global" max_length="40" name="industry_global" type="string"/>
+        <element choice="1" default="USA" function_definition="USA" label="Country" max_length="40" name="country" type="choice">
+            <choice/>
+        </element>
+        <element label="Company" max_length="40" name="company" type="string"/>
+        <element label="Year of convergence for margin" max_length="255" name="year_of_convergence_for_margin" type="integer"/>
+        <element label="Initial Cost of Capital" max_length="38" name="initial_cost_of_capital" type="decimal"/>
+        <element label="Sales to capital ratio  (for years 6-10)" max_length="38" name="sales_to_capital_ratio_for_years_6_10" type="decimal"/>
+        <element label="Compounded annual revenue growth rate - years 2-5" max_length="38" name="compounded_annual_revenue_growth_rate_years_2_5" type="decimal"/>
+        <element label="Average Maturity" max_length="38" name="average_maturity" type="decimal"/>
+        <element label="Revenue growth rate for next year" max_length="38" name="revenue_growth_rate_for_next_year" type="decimal"/>
+        <element label="Number of Options outstanding" max_length="38" name="number_of_options_outstanding" type="decimal"/>
+        <element label="Do You Have R&amp;D Expenses?" max_length="255" name="r_d_expenses" type="boolean"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="EBIT 10K" max_length="20" name="u_ebit_10k" type="price"/>
+        <element label="Operating Lease Commitments" max_length="255" name="operating_lease_commitments" type="boolean"/>
+        <element label="Book Value of Equity TTM" max_length="20" name="book_value_of_equity" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Book Value of Debt 10K" max_length="20" name="u_book_value_of_debt_10k" type="price"/>
+        <element label="Interest Expenses TTM" max_length="20" name="interest_expenses_ttm" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Current Stock Price" max_length="20" name="u_current_stock_price" type="price"/>
+        <element label="Target pre-tax operating margin" max_length="38" name="target_pre_tax_operating_margin" type="decimal"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Interest Expense 10K" max_length="20" name="u_interest_expense_10k" type="price"/>
+        <element label="Valuation Date" max_length="255" name="valuation_date" type="glide_date"/>
+        <element label="Operating Income TTM" max_length="20" name="operating_income" type="price"/>
+        <element choice="3" label="Industry" max_length="40" name="industry" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Computers/Peripherals" sequence="2" value="Computers/Peripherals"/>
+                <element inactive_on_update="false" label="Construction Supplies" sequence="1" value="Construction Supplies"/>
+                <element inactive_on_update="false" label="Computer Services" sequence="3" value="Computer Services"/>
+                <element inactive_on_update="false" label="Retail" sequence="0" value="Retail"/>
+            </choice>
+        </element>
+        <element label="Ticker" max_length="40" name="ticker" type="string"/>
+        <element label="Revenues_TTM" max_length="20" name="revenues_ttm" type="price"/>
+        <element label="Operating Margin for next year" max_length="38" name="operating_margin_for_next_year" type="decimal"/>
+        <element label="Sales to capital ratio  (for years 1-5)" max_length="38" name="sales_to_capital_ratio_for_years_1_5" type="decimal"/>
+        <element label="Risk free rate" max_length="38" name="risk_free_rate" type="decimal"/>
+        <element label="Average Strike Price" max_length="20" name="average_strike_price" type="price"/>
+        <element label="Standard Deviation on Stock Price" max_length="38" name="standard_deviation_on_stock_price" type="decimal"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Reveues 10K" max_length="20" name="u_revenues_10k" type="price"/>
+        <element label="Cross Holdings and other NOAs" max_length="20" name="cross_holdings_and_other_noas" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Book Value of Equity 10K" max_length="20" name="u_book_value_of_equity_10k" type="price"/>
+        <element label="Book Value of Debt TTM" max_length="20" name="book_value_of_debt" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Minority Interests" max_length="20" name="u_minority_interests_ttm" type="price"/>
+        <element label="Effective Tax rate" max_length="15" name="u_effective_tax_rate" type="decimal"/>
+        <element label="Cash and Marketable Securities" max_length="20" name="cash_and_marketable_securities" type="price"/>
+        <element label="Number of Shares outstanding" max_length="40" name="u_outstanding_shares" type="integer"/>
+    </element>
+</database>

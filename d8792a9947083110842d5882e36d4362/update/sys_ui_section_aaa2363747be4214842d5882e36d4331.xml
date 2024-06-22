@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Value Drivers" section_id="aaa2363747be4214842d5882e36d4331" sys_domain="global" table="x_27034_stocks_valuation" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>revenue_growth_rate_for_next_year</element>
+            <position>0</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 02:19:43</sys_created_on>
+            <sys_id>ee97b67347fe4214842d5882e36d43ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Value Drivers" display_value="Value Drivers" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">aaa2363747be4214842d5882e36d4331</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 02:19:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>operating_margin_for_next_year</element>
+            <position>1</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 02:19:43</sys_created_on>
+            <sys_id>e697b67347fe4214842d5882e36d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Value Drivers" display_value="Value Drivers" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">aaa2363747be4214842d5882e36d4331</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 02:19:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>compounded_annual_revenue_growth_rate_years_2_5</element>
+            <position>2</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 02:19:43</sys_created_on>
+            <sys_id>ee97b67347fe4214842d5882e36d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Value Drivers" display_value="Value Drivers" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">aaa2363747be4214842d5882e36d4331</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 02:19:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>target_pre_tax_operating_margin</element>
+            <position>3</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 02:19:43</sys_created_on>
+            <sys_id>e697b67347fe4214842d5882e36d43ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Value Drivers" display_value="Value Drivers" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">aaa2363747be4214842d5882e36d4331</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 02:19:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 02:19:43</sys_created_on>
+            <sys_id>ee97b67347fe4214842d5882e36d43ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Value Drivers" display_value="Value Drivers" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">aaa2363747be4214842d5882e36d4331</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 02:19:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>year_of_convergence_for_margin</element>
+            <position>5</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 02:19:43</sys_created_on>
+            <sys_id>e697b67347fe4214842d5882e36d43af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Value Drivers" display_value="Value Drivers" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">aaa2363747be4214842d5882e36d4331</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 02:19:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sales_to_capital_ratio_for_years_1_5</element>
+            <position>6</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 02:19:43</sys_created_on>
+            <sys_id>ee97b67347fe4214842d5882e36d43af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Value Drivers" display_value="Value Drivers" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">aaa2363747be4214842d5882e36d4331</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 02:19:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sales_to_capital_ratio_for_years_6_10</element>
+            <position>7</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 02:19:43</sys_created_on>
+            <sys_id>e697b67347fe4214842d5882e36d43b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Value Drivers" display_value="Value Drivers" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">aaa2363747be4214842d5882e36d4331</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 02:19:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Value Drivers</caption>
+            <header>false</header>
+            <name>x_27034_stocks_valuation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 01:58:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaa2363747be4214842d5882e36d4331</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_27034_stocks_valuation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="stocks" source="x_27034_stocks">d8792a9947083110842d5882e36d4362</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="stocks">d8792a9947083110842d5882e36d4362</sys_scope>
+            <sys_update_name>sys_ui_section_aaa2363747be4214842d5882e36d4331</sys_update_name>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 02:19:42</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

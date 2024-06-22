@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_outstanding_shares" label="Number of Shares outstanding" language="en" table="x_27034_stocks_valuation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_outstanding_shares</element>
+            <help/>
+            <hint/>
+            <label>Number of Shares outstanding</label>
+            <language>en</language>
+            <name>x_27034_stocks_valuation</name>
+            <plural>Number of Shares outstandings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-22 01:58:10</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number of Shares outstanding</sys_name>
+            <sys_package display_value="stocks" source="x_27034_stocks">d8792a9947083110842d5882e36d4362</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="stocks">d8792a9947083110842d5882e36d4362</sys_scope>
+            <sys_update_name>sys_documentation_x_27034_stocks_valuation_u_outstanding_shares_en</sys_update_name>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-22 01:58:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
