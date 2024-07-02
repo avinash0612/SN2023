@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="6066f7df47f64ed0842d5882e36d436a" label="Valuation" max_length="40" name="x_27034_stocks_valuation" type="collection">
         <element label="Outstanding Employee options?" max_length="255" name="outstanding_employee_options" type="boolean"/>
+        <element label="Cash and Marketable Securities TTM" max_length="20" name="cash_and_marketable_securities_ttm" type="price"/>
         <element label="Industry-Global" max_length="40" name="industry_global" type="string"/>
         <element choice="1" default="USA" function_definition="USA" label="Country" max_length="40" name="country" type="choice">
             <choice/>
@@ -21,6 +22,7 @@
         <element label="Interest Expenses TTM" max_length="20" name="interest_expenses_ttm" type="price"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Current Stock Price" max_length="20" name="u_current_stock_price" type="price"/>
         <element label="Target pre-tax operating margin" max_length="38" name="target_pre_tax_operating_margin" type="decimal"/>
+        <element label="Cross Holdings and other NOAs TTM" max_length="20" name="cross_holdings_and_other_noas_ttm" type="price"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Interest Expense 10K" max_length="20" name="u_interest_expense_10k" type="price"/>
         <element label="Valuation Date" max_length="255" name="valuation_date" type="glide_date"/>
         <element label="Operating Income TTM" max_length="20" name="operating_income" type="price"/>

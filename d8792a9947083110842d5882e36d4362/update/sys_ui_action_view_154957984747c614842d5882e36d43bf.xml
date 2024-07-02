@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_view">
+    <sys_ui_action_view action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_view</sys_class_name>
+        <sys_created_by>avi</sys_created_by>
+        <sys_created_on>2024-06-23 18:03:48</sys_created_on>
+        <sys_id>154957984747c614842d5882e36d43bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetStocksdata.Admin View</sys_name>
+        <sys_package display_value="stocks" source="x_27034_stocks">d8792a9947083110842d5882e36d4362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="stocks">d8792a9947083110842d5882e36d4362</sys_scope>
+        <sys_ui_action display_value="GetStocksdata">d2a797944747c614842d5882e36d43c8</sys_ui_action>
+        <sys_ui_view display_value="Admin View" name="admin_view">b2dc6c709f002200f45c7b9ac42e70e5</sys_ui_view>
+        <sys_update_name>sys_ui_action_view_154957984747c614842d5882e36d43bf</sys_update_name>
+        <sys_updated_by>avi</sys_updated_by>
+        <sys_updated_on>2024-06-23 18:03:48</sys_updated_on>
+        <visibility>include</visibility>
+    </sys_ui_action_view>
+</record_update>

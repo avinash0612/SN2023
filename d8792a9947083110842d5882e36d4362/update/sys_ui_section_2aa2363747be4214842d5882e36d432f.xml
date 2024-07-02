@@ -4,13 +4,13 @@
             <element>revenues_ttm</element>
             <position>0</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>144872f347fe4214842d5882e36d4304</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7707d4a947438254842d5882e36d436c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>operating_income</element>
             <position>1</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>1c4872f347fe4214842d5882e36d4304</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7f07d4a947438254842d5882e36d436c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>interest_expenses_ttm</element>
             <position>2</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>144872f347fe4214842d5882e36d4305</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7707d4a947438254842d5882e36d436d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>book_value_of_equity</element>
             <position>3</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>1c4872f347fe4214842d5882e36d4305</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7f07d4a947438254842d5882e36d436d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,97 +60,153 @@
             <element>book_value_of_debt</element>
             <position>4</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>144872f347fe4214842d5882e36d4306</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7707d4a947438254842d5882e36d436e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cash_and_marketable_securities_ttm</element>
+            <position>5</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7f07d4a947438254842d5882e36d436e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cross_holdings_and_other_noas_ttm</element>
+            <position>6</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7707d4a947438254842d5882e36d436f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>7</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>1c4872f347fe4214842d5882e36d4306</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7f07d4a947438254842d5882e36d436f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_revenues_10k</element>
-            <position>6</position>
+            <position>8</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>144872f347fe4214842d5882e36d4307</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7707d4a947438254842d5882e36d4370</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_ebit_10k</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>1c4872f347fe4214842d5882e36d4307</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7f07d4a947438254842d5882e36d4370</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_interest_expense_10k</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>144872f347fe4214842d5882e36d4308</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7707d4a947438254842d5882e36d4371</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_book_value_of_equity_10k</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>1c4872f347fe4214842d5882e36d4308</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7f07d4a947438254842d5882e36d4371</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_book_value_of_debt_10k</element>
-            <position>10</position>
+            <position>12</position>
             <sys_created_by>avi</sys_created_by>
-            <sys_created_on>2024-06-22 02:22:35</sys_created_on>
-            <sys_id>144872f347fe4214842d5882e36d4309</sys_id>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7707d4a947438254842d5882e36d4372</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
             <sys_updated_by>avi</sys_updated_by>
-            <sys_updated_on>2024-06-22 02:22:35</sys_updated_on>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cash_and_marketable_securities</element>
+            <position>13</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7f07d4a947438254842d5882e36d4372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cross_holdings_and_other_noas</element>
+            <position>14</position>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-06-27 01:07:41</sys_created_on>
+            <sys_id>7707d4a947438254842d5882e36d4373</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TTM and 10K" display_value="TTM and 10K" name="x_27034_stocks_valuation" sys_domain="global" view="Default view">2aa2363747be4214842d5882e36d432f</sys_ui_section>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-06-27 01:07:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="DELETE">
+        <name>function</name>
+        <order>100</order>
+        <rest_message_function display_value="overview">9dac8b0047cb0614842d5882e36d4306</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>avi</sys_created_by>
+        <sys_created_on>2024-06-22 22:54:12</sys_created_on>
+        <sys_id>baf1df4c47cb0614842d5882e36d4341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>function</sys_name>
+        <sys_package display_value="stocks" source="x_27034_stocks">d8792a9947083110842d5882e36d4362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="stocks">d8792a9947083110842d5882e36d4362</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_baf1df4c47cb0614842d5882e36d4341</sys_update_name>
+        <sys_updated_by>avi</sys_updated_by>
+        <sys_updated_on>2024-06-22 22:54:12</sys_updated_on>
+        <value>OVERVIEW</value>
+    </sys_rest_message_fn_param_defs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="stocks">d8792a9947083110842d5882e36d4362</application>
+        <file_path/>
+        <instance_id>4bc44ec3db7751904d2bac44d4961913</instance_id>
+        <instance_name>dev146701</instance_name>
+        <name>sys_rest_message_fn_param_defs_baf1df4c47cb0614842d5882e36d4341</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs"><sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE"><name>function</name><order>100</order><rest_message_function display_value="overview">9dac8b0047cb0614842d5882e36d4306</rest_message_function><sys_class_name>sys_rest_message_fn_param_defs</sys_class_name><sys_created_by>avi</sys_created_by><sys_created_on>2024-06-22 22:54:12</sys_created_on><sys_id>baf1df4c47cb0614842d5882e36d4341</sys_id><sys_mod_count>0</sys_mod_count><sys_name>function</sys_name><sys_package display_value="stocks" source="x_27034_stocks">d8792a9947083110842d5882e36d4362</sys_package><sys_policy/><sys_scope display_value="stocks">d8792a9947083110842d5882e36d4362</sys_scope><sys_update_name>sys_rest_message_fn_param_defs_baf1df4c47cb0614842d5882e36d4341</sys_update_name><sys_updated_by>avi</sys_updated_by><sys_updated_on>2024-06-22 22:54:12</sys_updated_on><value>OVERVIEW</value></sys_rest_message_fn_param_defs></record_update>]]></payload>
+        <payload_hash>-1541745963</payload_hash>
+        <record_name>function</record_name>
+        <reverted_from/>
+        <source>2d43d5a047720290842d5882e36d435f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>avi</sys_created_by>
+        <sys_created_on>2024-06-22 22:54:12</sys_created_on>
+        <sys_id>a922538c47cb0614842d5882e36d43c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19042283fe50000001</sys_recorded_at>
+        <sys_updated_by>avi</sys_updated_by>
+        <sys_updated_on>2024-06-22 22:54:12</sys_updated_on>
+        <type>HTTP Query Parameters</type>
+        <update_guid>ad22538cbecb061458cb8aa45a5bdac8</update_guid>
+        <update_guid_history>ad22538cbecb061458cb8aa45a5bdac8:-1541745963</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>avi</sys_created_by>
+        <sys_created_on>2024-06-22 22:55:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_param_defs">sys_rest_message_fn_param_defs</sys_db_object>
+        <sys_id>11cc5283cdbc4e7bafb6fbd124a66171</sys_id>
+        <sys_metadata>baf1df4c47cb0614842d5882e36d4341</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>function</sys_name>
+        <sys_package display_value="stocks" source="x_27034_stocks">d8792a9947083110842d5882e36d4362</sys_package>
+        <sys_parent display_value="overview">9dac8b0047cb0614842d5882e36d4306</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="stocks">d8792a9947083110842d5882e36d4362</sys_scope>
+        <sys_scope_delete display_value="">55d4d88c42fc41c0b757b27063e7b310</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_param_defs_baf1df4c47cb0614842d5882e36d4341</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_param_defs_baf1df4c47cb0614842d5882e36d4341">a922538c47cb0614842d5882e36d43c9</sys_update_version>
+        <sys_updated_by>avi</sys_updated_by>
+        <sys_updated_on>2024-06-22 22:55:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
